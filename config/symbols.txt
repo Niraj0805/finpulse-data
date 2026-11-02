@@ -1,0 +1,3 @@
+# Extra NSE symbols to track beyond the Nifty 200 (one per line).
+# Agents append stocks they rate here so the scoreboard always has prices.
+NAVINFLUOR
