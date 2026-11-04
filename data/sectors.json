@@ -1,185 +1,185 @@
 {
- "generatedAt": "2026-11-04T14:34+05:30",
+ "generatedAt": "2026-11-04T23:44+05:30",
  "universe": 499,
  "method": "equal-weighted across Nifty 500 constituents by NSE industry",
  "sectors": [
   {
    "sector": "Textiles",
    "stocks": 5,
-   "chg1d": 1.95,
-   "ret1w": 10.25,
-   "ret1m": 5.5,
-   "ret3m": 9.91,
+   "chg1d": 2.31,
+   "ret1w": 10.61,
+   "ret1m": 5.85,
+   "ret3m": 10.23,
    "above50": 60,
    "above200": 40,
-   "avgRsi": 61.28,
-   "score": 35.0,
+   "avgRsi": 62.06,
+   "score": 36.2,
    "trend": "Strengthening",
    "topGainers1w": [
     {
      "symbol": "WELSPUNLIV",
-     "ret1w": 22.66
+     "ret1w": 22.76
     },
     {
      "symbol": "TRIDENT",
-     "ret1w": 12.45
+     "ret1w": 12.27
     },
     {
      "symbol": "KPRMILL",
-     "ret1w": 7.58
+     "ret1w": 7.63
     }
    ],
    "topLosers1w": [
     {
      "symbol": "VTL",
-     "ret1w": 3.52
+     "ret1w": 4.78
     },
     {
      "symbol": "PAGEIND",
-     "ret1w": 5.02
+     "ret1w": 5.63
     },
     {
      "symbol": "KPRMILL",
-     "ret1w": 7.58
+     "ret1w": 7.63
     }
    ],
    "topToday": [
     {
      "symbol": "WELSPUNLIV",
-     "chg1d": 4.45
+     "chg1d": 4.54
     },
     {
      "symbol": "VTL",
-     "chg1d": 2.73
+     "chg1d": 3.97
     }
    ]
   },
   {
    "sector": "Media Entertainment & Publication",
    "stocks": 4,
-   "chg1d": 4.96,
-   "ret1w": 1.12,
-   "ret1m": 5.48,
-   "ret3m": 5.85,
+   "chg1d": 5.33,
+   "ret1w": 1.46,
+   "ret1m": 5.82,
+   "ret3m": 6.12,
    "above50": 75,
    "above200": 75,
-   "avgRsi": 57.25,
-   "score": 20.6,
+   "avgRsi": 57.62,
+   "score": 21.8,
    "trend": "Strong",
    "topGainers1w": [
     {
      "symbol": "PVRINOX",
-     "ret1w": 8.75
+     "ret1w": 9.13
     },
     {
      "symbol": "PFOCUS",
-     "ret1w": 2.9
+     "ret1w": 3.12
     },
     {
      "symbol": "ZEEL",
-     "ret1w": -2.84
+     "ret1w": -1.77
     }
    ],
    "topLosers1w": [
     {
      "symbol": "SUNTV",
-     "ret1w": -4.34
+     "ret1w": -4.63
     },
     {
      "symbol": "ZEEL",
-     "ret1w": -2.84
+     "ret1w": -1.77
     },
     {
      "symbol": "PFOCUS",
-     "ret1w": 2.9
+     "ret1w": 3.12
     }
    ],
    "topToday": [
     {
      "symbol": "ZEEL",
-     "chg1d": 8.85
+     "chg1d": 10.05
     },
     {
      "symbol": "PFOCUS",
-     "chg1d": 5.3
+     "chg1d": 5.53
     }
    ]
   },
   {
    "sector": "Information Technology",
    "stocks": 25,
-   "chg1d": 0.13,
-   "ret1w": 0.37,
-   "ret1m": 7.78,
-   "ret3m": -0.29,
-   "above50": 60,
+   "chg1d": 0.43,
+   "ret1w": 0.65,
+   "ret1m": 8.1,
+   "ret3m": -0.0,
+   "above50": 68,
    "above200": 62,
-   "avgRsi": 53.2,
-   "score": 12.4,
-   "trend": "Strengthening",
+   "avgRsi": 54.0,
+   "score": 16.6,
+   "trend": "Strong",
    "topGainers1w": [
     {
      "symbol": "AFFLE",
-     "ret1w": 16.82
+     "ret1w": 15.09
     },
     {
      "symbol": "FRACTAL",
-     "ret1w": 9.65
+     "ret1w": 10.79
     },
     {
      "symbol": "ZENSARTECH",
-     "ret1w": 6.74
+     "ret1w": 7.24
     }
    ],
    "topLosers1w": [
     {
      "symbol": "HEXT",
-     "ret1w": -12.63
+     "ret1w": -12.42
     },
     {
      "symbol": "INTELLECT",
-     "ret1w": -11.3
+     "ret1w": -10.81
     },
     {
      "symbol": "NETWEB",
-     "ret1w": -6.9
+     "ret1w": -7.76
     }
    ],
    "topToday": [
     {
      "symbol": "FRACTAL",
-     "chg1d": 12.85
+     "chg1d": 14.04
     },
     {
-     "symbol": "AFFLE",
-     "chg1d": 4.13
+     "symbol": "SAGILITY",
+     "chg1d": 2.95
     }
    ]
   },
   {
    "sector": "Oil Gas & Consumable Fuels",
    "stocks": 19,
-   "chg1d": 1.65,
-   "ret1w": 5.25,
-   "ret1m": 1.47,
-   "ret3m": -1.96,
+   "chg1d": 2.13,
+   "ret1w": 5.74,
+   "ret1m": 1.94,
+   "ret3m": -1.5,
    "above50": 53,
    "above200": 41,
-   "avgRsi": 55.08,
-   "score": 12.2,
+   "avgRsi": 55.86,
+   "score": 13.9,
    "trend": "Strengthening",
    "topGainers1w": [
     {
      "symbol": "RELIANCE",
-     "ret1w": 13.24
+     "ret1w": 13.21
     },
     {
      "symbol": "GAIL",
-     "ret1w": 12.67
+     "ret1w": 13.01
     },
     {
      "symbol": "VOGL",
-     "ret1w": 10.51
+     "ret1w": 10.08
     }
    ],
    "topLosers1w": [
@@ -188,259 +188,361 @@
      "ret1w": -2.72
     },
     {
-     "symbol": "AEGISLOG",
-     "ret1w": 0.31
+     "symbol": "MGL",
+     "ret1w": 0.61
     },
     {
-     "symbol": "MGL",
-     "ret1w": 0.52
+     "symbol": "OIL",
+     "ret1w": 2.35
     }
    ],
    "topToday": [
     {
-     "symbol": "MRPL",
-     "chg1d": 3.51
+     "symbol": "AEGISLOG",
+     "chg1d": 4.06
     },
     {
-     "symbol": "ATGL",
-     "chg1d": 2.96
+     "symbol": "MRPL",
+     "chg1d": 4.02
     }
    ]
   },
   {
    "sector": "Healthcare",
    "stocks": 44,
-   "chg1d": 1.16,
-   "ret1w": 2.91,
-   "ret1m": 2.98,
-   "ret3m": 0.44,
-   "above50": 52,
-   "above200": 77,
-   "avgRsi": 56.23,
-   "score": 9.8,
+   "chg1d": 1.66,
+   "ret1w": 3.42,
+   "ret1m": 3.49,
+   "ret3m": 0.92,
+   "above50": 57,
+   "above200": 80,
+   "avgRsi": 57.31,
+   "score": 13.6,
    "trend": "Strengthening",
    "topGainers1w": [
     {
      "symbol": "EMCURE",
-     "ret1w": 14.61
+     "ret1w": 15.22
     },
     {
      "symbol": "NH",
-     "ret1w": 11.43
+     "ret1w": 12.09
     },
     {
      "symbol": "RUBICON",
-     "ret1w": 9.84
+     "ret1w": 9.77
     }
    ],
    "topLosers1w": [
     {
      "symbol": "GRANULES",
-     "ret1w": -6.55
+     "ret1w": -5.46
     },
     {
      "symbol": "COHANCE",
-     "ret1w": -5.81
+     "ret1w": -5.38
     },
     {
      "symbol": "AJANTPHARM",
-     "ret1w": -4.68
+     "ret1w": -4.14
     }
    ],
    "topToday": [
     {
      "symbol": "EMCURE",
-     "chg1d": 8.72
+     "chg1d": 9.3
     },
     {
      "symbol": "CONCORDBIO",
-     "chg1d": 7.11
-    }
-   ]
-  },
-  {
-   "sector": "Construction Materials",
-   "stocks": 11,
-   "chg1d": 1.33,
-   "ret1w": 4.3,
-   "ret1m": 2.46,
-   "ret3m": -10.61,
-   "above50": 55,
-   "above200": 27,
-   "avgRsi": 55.95,
-   "score": 7.8,
-   "trend": "Strengthening",
-   "topGainers1w": [
-    {
-     "symbol": "INDIACEM",
-     "ret1w": 8.27
-    },
-    {
-     "symbol": "GRASIM",
-     "ret1w": 7.9
-    },
-    {
-     "symbol": "AMBUJACEM",
-     "ret1w": 6.34
-    }
-   ],
-   "topLosers1w": [
-    {
-     "symbol": "DALBHARAT",
-     "ret1w": -4.18
-    },
-    {
-     "symbol": "NUVOCO",
-     "ret1w": 1.0
-    },
-    {
-     "symbol": "JKCEMENT",
-     "ret1w": 2.53
-    }
-   ],
-   "topToday": [
-    {
-     "symbol": "INDIACEM",
-     "chg1d": 4.09
-    },
-    {
-     "symbol": "RAMCOCEM",
-     "chg1d": 2.5
-    }
-   ]
-  },
-  {
-   "sector": "Fast Moving Consumer Goods",
-   "stocks": 28,
-   "chg1d": 1.32,
-   "ret1w": 5.24,
-   "ret1m": 1.07,
-   "ret3m": -6.0,
-   "above50": 43,
-   "above200": 29,
-   "avgRsi": 53.61,
-   "score": 5.8,
-   "trend": "Neutral",
-   "topGainers1w": [
-    {
-     "symbol": "MARICO",
-     "ret1w": 15.25
-    },
-    {
-     "symbol": "UNITDSPR",
-     "ret1w": 14.32
-    },
-    {
-     "symbol": "DABUR",
-     "ret1w": 8.96
-    }
-   ],
-   "topLosers1w": [
-    {
-     "symbol": "AWL",
-     "ret1w": -0.98
-    },
-    {
-     "symbol": "ABDL",
-     "ret1w": -0.85
-    },
-    {
-     "symbol": "UBL",
-     "ret1w": 0.57
-    }
-   ],
-   "topToday": [
-    {
-     "symbol": "GILLETTE",
-     "chg1d": 4.2
-    },
-    {
-     "symbol": "DOMS",
-     "chg1d": 4.05
+     "chg1d": 6.77
     }
    ]
   },
   {
    "sector": "Power",
    "stocks": 19,
-   "chg1d": 1.99,
-   "ret1w": 6.76,
-   "ret1m": -0.05,
-   "ret3m": -9.08,
-   "above50": 42,
+   "chg1d": 2.11,
+   "ret1w": 6.89,
+   "ret1m": 0.08,
+   "ret3m": -8.96,
+   "above50": 58,
    "above200": 29,
-   "avgRsi": 53.45,
-   "score": 5.7,
-   "trend": "Neutral",
+   "avgRsi": 53.87,
+   "score": 12.6,
+   "trend": "Strengthening",
    "topGainers1w": [
     {
      "symbol": "VEDPOWER",
-     "ret1w": 25.22
+     "ret1w": 24.24
     },
     {
      "symbol": "SJVN",
-     "ret1w": 10.33
+     "ret1w": 10.03
     },
     {
-     "symbol": "ADANIENSOL",
-     "ret1w": 9.41
+     "symbol": "ADANIGREEN",
+     "ret1w": 9.38
     }
    ],
    "topLosers1w": [
     {
      "symbol": "CLEANMAX",
-     "ret1w": -0.11
+     "ret1w": -0.26
     },
     {
      "symbol": "NTPCGREEN",
-     "ret1w": -0.1
+     "ret1w": 0.35
     },
     {
      "symbol": "ACMESOLAR",
-     "ret1w": 2.3
+     "ret1w": 2.4
     }
    ],
    "topToday": [
     {
      "symbol": "NLCINDIA",
-     "chg1d": 7.51
+     "chg1d": 7.54
     },
     {
      "symbol": "VEDPOWER",
-     "chg1d": 5.69
+     "chg1d": 4.87
+    }
+   ]
+  },
+  {
+   "sector": "Construction Materials",
+   "stocks": 11,
+   "chg1d": 1.6,
+   "ret1w": 4.59,
+   "ret1m": 2.74,
+   "ret3m": -10.37,
+   "above50": 64,
+   "above200": 27,
+   "avgRsi": 56.54,
+   "score": 12.3,
+   "trend": "Strengthening",
+   "topGainers1w": [
+    {
+     "symbol": "INDIACEM",
+     "ret1w": 9.74
+    },
+    {
+     "symbol": "GRASIM",
+     "ret1w": 8.21
+    },
+    {
+     "symbol": "AMBUJACEM",
+     "ret1w": 7.05
+    }
+   ],
+   "topLosers1w": [
+    {
+     "symbol": "DALBHARAT",
+     "ret1w": -4.3
+    },
+    {
+     "symbol": "NUVOCO",
+     "ret1w": 1.44
+    },
+    {
+     "symbol": "JKCEMENT",
+     "ret1w": 1.81
+    }
+   ],
+   "topToday": [
+    {
+     "symbol": "INDIACEM",
+     "chg1d": 5.51
+    },
+    {
+     "symbol": "RAMCOCEM",
+     "chg1d": 3.5
+    }
+   ]
+  },
+  {
+   "sector": "Fast Moving Consumer Goods",
+   "stocks": 28,
+   "chg1d": 1.71,
+   "ret1w": 5.64,
+   "ret1m": 1.45,
+   "ret3m": -5.64,
+   "above50": 46,
+   "above200": 29,
+   "avgRsi": 54.36,
+   "score": 8.3,
+   "trend": "Neutral",
+   "topGainers1w": [
+    {
+     "symbol": "MARICO",
+     "ret1w": 15.64
+    },
+    {
+     "symbol": "UNITDSPR",
+     "ret1w": 15.63
+    },
+    {
+     "symbol": "DABUR",
+     "ret1w": 9.72
+    }
+   ],
+   "topLosers1w": [
+    {
+     "symbol": "AWL",
+     "ret1w": -0.99
+    },
+    {
+     "symbol": "ABDL",
+     "ret1w": -0.67
+    },
+    {
+     "symbol": "UBL",
+     "ret1w": 0.58
+    }
+   ],
+   "topToday": [
+    {
+     "symbol": "AVANTIFEED",
+     "chg1d": 4.26
+    },
+    {
+     "symbol": "GILLETTE",
+     "chg1d": 4.02
+    }
+   ]
+  },
+  {
+   "sector": "Services",
+   "stocks": 14,
+   "chg1d": 2.56,
+   "ret1w": 2.94,
+   "ret1m": 0.0,
+   "ret3m": -5.95,
+   "above50": 50,
+   "above200": 54,
+   "avgRsi": 53.36,
+   "score": 2.9,
+   "trend": "Strengthening",
+   "topGainers1w": [
+    {
+     "symbol": "JSWINFRA",
+     "ret1w": 9.67
+    },
+    {
+     "symbol": "SCI",
+     "ret1w": 9.64
+    },
+    {
+     "symbol": "INDIGO",
+     "ret1w": 9.61
+    }
+   ],
+   "topLosers1w": [
+    {
+     "symbol": "ECLERX",
+     "ret1w": -16.28
+    },
+    {
+     "symbol": "FSL",
+     "ret1w": -5.7
+    },
+    {
+     "symbol": "CMPDI",
+     "ret1w": -0.4
+    }
+   ],
+   "topToday": [
+    {
+     "symbol": "REDINGTON",
+     "chg1d": 9.4
+    },
+    {
+     "symbol": "JSWINFRA",
+     "chg1d": 5.81
+    }
+   ]
+  },
+  {
+   "sector": "Automobile and Auto Components",
+   "stocks": 40,
+   "chg1d": 1.71,
+   "ret1w": 3.78,
+   "ret1m": 2.39,
+   "ret3m": -6.21,
+   "above50": 40,
+   "above200": 48,
+   "avgRsi": 54.07,
+   "score": 2.8,
+   "trend": "Neutral",
+   "topGainers1w": [
+    {
+     "symbol": "MSUMI",
+     "ret1w": 12.53
+    },
+    {
+     "symbol": "ATHERENERG",
+     "ret1w": 11.52
+    },
+    {
+     "symbol": "HYUNDAI",
+     "ret1w": 10.5
+    }
+   ],
+   "topLosers1w": [
+    {
+     "symbol": "SHRIPISTON",
+     "ret1w": -5.34
+    },
+    {
+     "symbol": "OLAELEC",
+     "ret1w": -4.42
+    },
+    {
+     "symbol": "GABRIEL",
+     "ret1w": -3.96
+    }
+   ],
+   "topToday": [
+    {
+     "symbol": "UNOMINDA",
+     "chg1d": 6.44
+    },
+    {
+     "symbol": "EXIDEIND",
+     "chg1d": 6.4
     }
    ]
   },
   {
    "sector": "Telecommunication",
    "stocks": 11,
-   "chg1d": 1.5,
-   "ret1w": 1.72,
-   "ret1m": 0.88,
-   "ret3m": -0.51,
+   "chg1d": 1.55,
+   "ret1w": 1.78,
+   "ret1m": 0.94,
+   "ret3m": -0.46,
    "above50": 45,
    "above200": 55,
-   "avgRsi": 53.1,
-   "score": 2.1,
+   "avgRsi": 53.18,
+   "score": 2.3,
    "trend": "Neutral",
    "topGainers1w": [
     {
      "symbol": "ITI",
-     "ret1w": 14.74
+     "ret1w": 15.31
     },
     {
      "symbol": "BHARTIARTL",
-     "ret1w": 5.85
+     "ret1w": 6.13
     },
     {
      "symbol": "IDEA",
-     "ret1w": 5.4
+     "ret1w": 5.82
     }
    ],
    "topLosers1w": [
     {
      "symbol": "TTML",
-     "ret1w": -10.48
+     "ret1w": -10.45
     },
     {
      "symbol": "STLTECH",
@@ -463,188 +565,35 @@
    ]
   },
   {
-   "sector": "Automobile and Auto Components",
-   "stocks": 40,
-   "chg1d": 1.48,
-   "ret1w": 3.53,
-   "ret1m": 2.12,
-   "ret3m": -6.47,
-   "above50": 40,
-   "above200": 48,
-   "avgRsi": 53.58,
-   "score": 1.9,
-   "trend": "Neutral",
-   "topGainers1w": [
-    {
-     "symbol": "MSUMI",
-     "ret1w": 12.07
-    },
-    {
-     "symbol": "HYUNDAI",
-     "ret1w": 10.4
-    },
-    {
-     "symbol": "ENDURANCE",
-     "ret1w": 9.43
-    }
-   ],
-   "topLosers1w": [
-    {
-     "symbol": "SHRIPISTON",
-     "ret1w": -5.16
-    },
-    {
-     "symbol": "OLAELEC",
-     "ret1w": -4.72
-    },
-    {
-     "symbol": "CRAFTSMAN",
-     "ret1w": -4.57
-    }
-   ],
-   "topToday": [
-    {
-     "symbol": "EXIDEIND",
-     "chg1d": 7.93
-    },
-    {
-     "symbol": "UNOMINDA",
-     "chg1d": 6.27
-    }
-   ]
-  },
-  {
-   "sector": "Services",
-   "stocks": 14,
-   "chg1d": 2.23,
-   "ret1w": 2.59,
-   "ret1m": -0.32,
-   "ret3m": -6.24,
-   "above50": 50,
-   "above200": 54,
-   "avgRsi": 52.8,
-   "score": 1.7,
-   "trend": "Strengthening",
-   "topGainers1w": [
-    {
-     "symbol": "INDIGO",
-     "ret1w": 9.34
-    },
-    {
-     "symbol": "DELHIVERY",
-     "ret1w": 8.1
-    },
-    {
-     "symbol": "ADANIPORTS",
-     "ret1w": 7.82
-    }
-   ],
-   "topLosers1w": [
-    {
-     "symbol": "ECLERX",
-     "ret1w": -16.2
-    },
-    {
-     "symbol": "FSL",
-     "ret1w": -6.01
-    },
-    {
-     "symbol": "CMPDI",
-     "ret1w": -0.9
-    }
-   ],
-   "topToday": [
-    {
-     "symbol": "REDINGTON",
-     "chg1d": 10.59
-    },
-    {
-     "symbol": "JSWINFRA",
-     "chg1d": 3.95
-    }
-   ]
-  },
-  {
-   "sector": "Consumer Services",
-   "stocks": 23,
-   "chg1d": 0.49,
-   "ret1w": 1.95,
-   "ret1m": -0.97,
-   "ret3m": -3.86,
-   "above50": 39,
-   "above200": 57,
-   "avgRsi": 50.57,
-   "score": -3.4,
-   "trend": "Neutral",
-   "topGainers1w": [
-    {
-     "symbol": "DMART",
-     "ret1w": 8.05
-    },
-    {
-     "symbol": "LEMONTREE",
-     "ret1w": 7.9
-    },
-    {
-     "symbol": "URBANCO",
-     "ret1w": 7.29
-    }
-   ],
-   "topLosers1w": [
-    {
-     "symbol": "TBOTEK",
-     "ret1w": -2.69
-    },
-    {
-     "symbol": "PWL",
-     "ret1w": -2.63
-    },
-    {
-     "symbol": "SWIGGY",
-     "ret1w": -2.19
-    }
-   ],
-   "topToday": [
-    {
-     "symbol": "JUBLFOOD",
-     "chg1d": 3.08
-    },
-    {
-     "symbol": "INDIAMART",
-     "chg1d": 2.58
-    }
-   ]
-  },
-  {
    "sector": "Realty",
    "stocks": 13,
-   "chg1d": 1.97,
-   "ret1w": 4.5,
-   "ret1m": -1.34,
-   "ret3m": -8.38,
-   "above50": 31,
+   "chg1d": 2.38,
+   "ret1w": 4.91,
+   "ret1m": -0.95,
+   "ret3m": -8.01,
+   "above50": 38,
    "above200": 38,
-   "avgRsi": 49.94,
-   "score": -4.1,
-   "trend": "Weak",
+   "avgRsi": 50.68,
+   "score": 0.1,
+   "trend": "Neutral",
    "topGainers1w": [
     {
      "symbol": "PRESTIGE",
-     "ret1w": 13.74
+     "ret1w": 13.49
     },
     {
      "symbol": "LODHA",
-     "ret1w": 9.87
+     "ret1w": 11.41
     },
     {
      "symbol": "GODREJPROP",
-     "ret1w": 9.7
+     "ret1w": 9.58
     }
    ],
    "topLosers1w": [
     {
      "symbol": "ANANTRAJ",
-     "ret1w": -0.91
+     "ret1w": -0.74
     },
     {
      "symbol": "EMBASSY",
@@ -652,142 +601,193 @@
     },
     {
      "symbol": "BRIGADE",
-     "ret1w": -0.19
+     "ret1w": 0.51
     }
    ],
    "topToday": [
     {
      "symbol": "LODHA",
-     "chg1d": 4.31
+     "chg1d": 5.77
     },
     {
      "symbol": "GODREJPROP",
-     "chg1d": 4.28
+     "chg1d": 4.16
+    }
+   ]
+  },
+  {
+   "sector": "Consumer Services",
+   "stocks": 23,
+   "chg1d": 0.58,
+   "ret1w": 2.05,
+   "ret1m": -0.86,
+   "ret3m": -3.76,
+   "above50": 39,
+   "above200": 57,
+   "avgRsi": 50.88,
+   "score": -3.0,
+   "trend": "Neutral",
+   "topGainers1w": [
+    {
+     "symbol": "DMART",
+     "ret1w": 8.94
+    },
+    {
+     "symbol": "LEMONTREE",
+     "ret1w": 7.86
+    },
+    {
+     "symbol": "URBANCO",
+     "ret1w": 7.14
+    }
+   ],
+   "topLosers1w": [
+    {
+     "symbol": "PWL",
+     "ret1w": -3.04
+    },
+    {
+     "symbol": "TBOTEK",
+     "ret1w": -2.94
+    },
+    {
+     "symbol": "SWIGGY",
+     "ret1w": -2.51
+    }
+   ],
+   "topToday": [
+    {
+     "symbol": "INDIAMART",
+     "chg1d": 3.24
+    },
+    {
+     "symbol": "JUBLFOOD",
+     "chg1d": 3.01
     }
    ]
   },
   {
    "sector": "Consumer Durables",
    "stocks": 16,
-   "chg1d": 0.73,
-   "ret1w": 2.21,
+   "chg1d": 0.72,
+   "ret1w": 2.2,
    "ret1m": -0.35,
-   "ret3m": -9.15,
+   "ret3m": -9.18,
    "above50": 38,
    "above200": 38,
-   "avgRsi": 51.21,
+   "avgRsi": 51.29,
    "score": -5.3,
    "trend": "Neutral",
    "topGainers1w": [
     {
      "symbol": "TITAN",
-     "ret1w": 8.99
+     "ret1w": 9.6
     },
     {
      "symbol": "DIXON",
-     "ret1w": 7.67
+     "ret1w": 7.81
     },
     {
      "symbol": "ASIANPAINT",
-     "ret1w": 6.32
+     "ret1w": 6.1
     }
    ],
    "topLosers1w": [
     {
      "symbol": "THANGAMAYL",
-     "ret1w": -7.04
+     "ret1w": -8.43
     },
     {
      "symbol": "BATAINDIA",
-     "ret1w": -3.53
+     "ret1w": -4.18
     },
     {
      "symbol": "BLUESTARCO",
-     "ret1w": -2.63
+     "ret1w": -2.69
     }
    ],
    "topToday": [
     {
-     "symbol": "KALYANKJIL",
-     "chg1d": 4.74
+     "symbol": "TITAN",
+     "chg1d": 4.22
     },
     {
-     "symbol": "TITAN",
-     "chg1d": 3.64
+     "symbol": "KALYANKJIL",
+     "chg1d": 4.1
     }
    ]
   },
   {
    "sector": "Financial Services",
    "stocks": 98,
-   "chg1d": 1.44,
-   "ret1w": 3.26,
-   "ret1m": -1.83,
-   "ret3m": -8.14,
-   "above50": 23,
+   "chg1d": 1.55,
+   "ret1w": 3.37,
+   "ret1m": -1.72,
+   "ret3m": -8.04,
+   "above50": 26,
    "above200": 32,
-   "avgRsi": 48.74,
-   "score": -10.2,
+   "avgRsi": 49.05,
+   "score": -8.6,
    "trend": "Weak",
    "topGainers1w": [
     {
      "symbol": "POONAWALLA",
-     "ret1w": 16.99
+     "ret1w": 16.43
     },
     {
      "symbol": "MUTHOOTFIN",
-     "ret1w": 13.82
+     "ret1w": 13.25
     },
     {
-     "symbol": "MANAPPURAM",
-     "ret1w": 9.94
+     "symbol": "SHRIRAMFIN",
+     "ret1w": 10.01
     }
    ],
    "topLosers1w": [
     {
      "symbol": "CRISIL",
-     "ret1w": -4.64
+     "ret1w": -4.43
     },
     {
      "symbol": "FIVESTAR",
-     "ret1w": -4.23
+     "ret1w": -4.0
     },
     {
      "symbol": "PNBHOUSING",
-     "ret1w": -4.08
+     "ret1w": -3.57
     }
    ],
    "topToday": [
     {
      "symbol": "MUTHOOTFIN",
-     "chg1d": 7.72
+     "chg1d": 7.18
     },
     {
      "symbol": "IIFL",
-     "chg1d": 6.28
+     "chg1d": 6.77
     }
    ]
   },
   {
    "sector": "Construction",
    "stocks": 13,
-   "chg1d": 2.2,
-   "ret1w": 3.95,
-   "ret1m": -3.14,
-   "ret3m": -9.67,
+   "chg1d": 2.7,
+   "ret1w": 4.45,
+   "ret1m": -2.68,
+   "ret3m": -9.23,
    "above50": 23,
    "above200": 31,
-   "avgRsi": 48.92,
-   "score": -10.9,
+   "avgRsi": 49.88,
+   "score": -9.2,
    "trend": "Weak",
    "topGainers1w": [
     {
      "symbol": "ENGINERSIN",
-     "ret1w": 16.6
+     "ret1w": 17.36
     },
     {
      "symbol": "NBCC",
-     "ret1w": 11.21
+     "ret1w": 11.31
     },
     {
      "symbol": "CEMPRO",
@@ -797,325 +797,325 @@
    "topLosers1w": [
     {
      "symbol": "KEC",
-     "ret1w": -6.18
+     "ret1w": -4.91
     },
     {
      "symbol": "RITES",
-     "ret1w": -0.15
+     "ret1w": 0.28
     },
     {
      "symbol": "AFCONS",
-     "ret1w": 1.13
+     "ret1w": 1.19
     }
    ],
    "topToday": [
     {
      "symbol": "TECHNOE",
-     "chg1d": 3.5
+     "chg1d": 4.03
     },
     {
      "symbol": "ENGINERSIN",
-     "chg1d": 3.34
-    }
-   ]
-  },
-  {
-   "sector": "Diversified",
-   "stocks": 1,
-   "chg1d": 2.32,
-   "ret1w": 3.16,
-   "ret1m": -6.3,
-   "ret3m": -25.53,
-   "above50": 0,
-   "above200": 0,
-   "avgRsi": 45.4,
-   "score": -12.7,
-   "trend": "Weak",
-   "topGainers1w": [
-    {
-     "symbol": "GODREJIND",
-     "ret1w": 3.16
-    }
-   ],
-   "topLosers1w": [
-    {
-     "symbol": "GODREJIND",
-     "ret1w": 3.16
-    }
-   ],
-   "topToday": [
-    {
-     "symbol": "GODREJIND",
-     "chg1d": 2.32
+     "chg1d": 4.01
     }
    ]
   },
   {
    "sector": "Capital Goods",
    "stocks": 69,
-   "chg1d": 2.54,
-   "ret1w": 3.08,
-   "ret1m": -4.67,
-   "ret3m": -5.68,
-   "above50": 20,
-   "above200": 45,
-   "avgRsi": 48.09,
-   "score": -13.3,
+   "chg1d": 2.95,
+   "ret1w": 3.49,
+   "ret1m": -4.3,
+   "ret3m": -5.31,
+   "above50": 22,
+   "above200": 46,
+   "avgRsi": 48.8,
+   "score": -11.2,
    "trend": "Weak",
    "topGainers1w": [
     {
      "symbol": "HEGAM",
-     "ret1w": 26.25
+     "ret1w": 25.99
     },
     {
      "symbol": "GRSE",
-     "ret1w": 12.92
+     "ret1w": 12.95
     },
     {
      "symbol": "JYOTICNC",
-     "ret1w": 10.76
+     "ret1w": 11.38
     }
    ],
    "topLosers1w": [
     {
      "symbol": "MTARTECH",
-     "ret1w": -13.59
+     "ret1w": -13.47
     },
     {
      "symbol": "AIAENG",
-     "ret1w": -10.66
+     "ret1w": -10.76
     },
     {
      "symbol": "ESCORTS",
-     "ret1w": -8.88
+     "ret1w": -8.79
     }
    ],
    "topToday": [
     {
      "symbol": "HEGAM",
-     "chg1d": 20.0
+     "chg1d": 19.75
     },
     {
-     "symbol": "TEGA",
-     "chg1d": 7.03
+     "symbol": "JYOTICNC",
+     "chg1d": 6.98
+    }
+   ]
+  },
+  {
+   "sector": "Diversified",
+   "stocks": 1,
+   "chg1d": 2.72,
+   "ret1w": 3.57,
+   "ret1m": -5.93,
+   "ret3m": -25.24,
+   "above50": 0,
+   "above200": 0,
+   "avgRsi": 46.2,
+   "score": -11.4,
+   "trend": "Weak",
+   "topGainers1w": [
+    {
+     "symbol": "GODREJIND",
+     "ret1w": 3.57
+    }
+   ],
+   "topLosers1w": [
+    {
+     "symbol": "GODREJIND",
+     "ret1w": 3.57
+    }
+   ],
+   "topToday": [
+    {
+     "symbol": "GODREJIND",
+     "chg1d": 2.72
     }
    ]
   },
   {
    "sector": "Metals & Mining",
    "stocks": 20,
-   "chg1d": 3.16,
-   "ret1w": 4.34,
-   "ret1m": -3.21,
-   "ret3m": -9.82,
-   "above50": 10,
-   "above200": 22,
-   "avgRsi": 50.19,
-   "score": -15.4,
+   "chg1d": 3.56,
+   "ret1w": 4.75,
+   "ret1m": -2.83,
+   "ret3m": -9.45,
+   "above50": 15,
+   "above200": 28,
+   "avgRsi": 51.04,
+   "score": -12.1,
    "trend": "Weak",
    "topGainers1w": [
     {
-     "symbol": "GRAVITA",
-     "ret1w": 10.61
-    },
-    {
-     "symbol": "ADANIENT",
-     "ret1w": 9.19
-    },
-    {
      "symbol": "VEDL",
-     "ret1w": 9.12
+     "ret1w": 10.43
+    },
+    {
+     "symbol": "GRAVITA",
+     "ret1w": 10.36
+    },
+    {
+     "symbol": "JINDALSTEL",
+     "ret1w": 9.63
     }
    ],
    "topLosers1w": [
     {
      "symbol": "SARDAEN",
-     "ret1w": -3.0
+     "ret1w": -3.08
     },
     {
      "symbol": "JAINREC",
-     "ret1w": 0.0
+     "ret1w": -0.2
     },
     {
-     "symbol": "NATIONALUM",
-     "ret1w": 0.06
+     "symbol": "NSLNISP",
+     "ret1w": 0.82
     }
    ],
    "topToday": [
     {
      "symbol": "GMDCLTD",
-     "chg1d": 9.53
+     "chg1d": 10.24
     },
     {
-     "symbol": "GRAVITA",
-     "chg1d": 5.55
+     "symbol": "HINDCOPPER",
+     "chg1d": 5.73
     }
    ]
   },
   {
    "sector": "Chemicals",
    "stocks": 26,
-   "chg1d": 1.94,
-   "ret1w": 1.85,
-   "ret1m": -4.32,
-   "ret3m": -11.92,
+   "chg1d": 2.1,
+   "ret1w": 2.02,
+   "ret1m": -4.17,
+   "ret3m": -11.79,
    "above50": 15,
    "above200": 27,
-   "avgRsi": 46.42,
-   "score": -20.6,
+   "avgRsi": 46.72,
+   "score": -20.0,
    "trend": "Weak",
    "topGainers1w": [
     {
      "symbol": "FACT",
-     "ret1w": 11.93
+     "ret1w": 12.49
     },
     {
      "symbol": "LINDEINDIA",
-     "ret1w": 10.33
+     "ret1w": 11.63
     },
     {
      "symbol": "CHAMBLFERT",
-     "ret1w": 9.44
+     "ret1w": 9.62
     }
    ],
    "topLosers1w": [
     {
      "symbol": "CLEAN",
-     "ret1w": -11.39
+     "ret1w": -11.09
     },
     {
-     "symbol": "PCBL",
-     "ret1w": -5.07
+     "symbol": "PRIVISCL",
+     "ret1w": -5.64
     },
     {
      "symbol": "JUBLINGREA",
-     "ret1w": -4.89
+     "ret1w": -5.37
     }
    ],
    "topToday": [
     {
      "symbol": "LINDEINDIA",
-     "chg1d": 7.99
+     "chg1d": 9.27
     },
     {
      "symbol": "FACT",
-     "chg1d": 6.32
+     "chg1d": 6.85
     }
    ]
   }
  ],
  "indices": {
   "Nifty Bank": {
-   "value": 55872.4,
+   "value": 55913.6,
    "asOf": "2026-11-04",
-   "chg1d": 0.6,
-   "ret1w": 2.96,
-   "ret1m": 2.12,
-   "ret3m": -3.51
-  },
-  "Nifty IT": {
-   "value": 31913.5,
-   "asOf": "2026-11-04",
-   "chg1d": -1.96,
-   "ret1w": 1.14,
-   "ret1m": 12.76,
-   "ret3m": 1.46
-  },
-  "Nifty Pharma": {
-   "value": 27228.35,
-   "asOf": "2026-11-04",
-   "chg1d": 0.04,
-   "ret1w": 2.59,
-   "ret1m": 4.25,
-   "ret3m": 2.37
-  },
-  "Nifty Auto": {
-   "value": 26411.1,
-   "asOf": "2026-11-04",
-   "chg1d": 0.8,
-   "ret1w": 2.74,
-   "ret1m": 3.89,
-   "ret3m": -9.06
-  },
-  "Nifty FMCG": {
-   "value": 46114.3,
-   "asOf": "2026-11-04",
-   "chg1d": 1.17,
-   "ret1w": 7.55,
-   "ret1m": 3.44,
-   "ret3m": -6.89
-  },
-  "Nifty Metal": {
-   "value": 12400.7,
-   "asOf": "2026-11-04",
-   "chg1d": 2.1,
-   "ret1w": 5.36,
-   "ret1m": -0.78,
-   "ret3m": -4.85
-  },
-  "Nifty Realty": {
-   "value": 860.5,
-   "asOf": "2026-11-04",
-   "chg1d": 2.27,
-   "ret1w": 7.85,
-   "ret1m": 2.48,
+   "chg1d": 0.67,
+   "ret1w": 3.03,
+   "ret1m": 2.19,
    "ret3m": -3.44
   },
-  "Nifty Energy": {
-   "value": 36935.3,
+  "Nifty IT": {
+   "value": 32061.9,
    "asOf": "2026-11-04",
-   "chg1d": 1.78,
-   "ret1w": 5.69,
-   "ret1m": 0.93,
-   "ret3m": -4.85
+   "chg1d": -1.5,
+   "ret1w": 1.61,
+   "ret1m": 13.29,
+   "ret3m": 1.93
+  },
+  "Nifty Pharma": {
+   "value": 27333.45,
+   "asOf": "2026-11-04",
+   "chg1d": 0.42,
+   "ret1w": 2.98,
+   "ret1m": 4.66,
+   "ret3m": 2.77
+  },
+  "Nifty Auto": {
+   "value": 26504.8,
+   "asOf": "2026-11-04",
+   "chg1d": 1.16,
+   "ret1w": 3.1,
+   "ret1m": 4.26,
+   "ret3m": -8.73
+  },
+  "Nifty FMCG": {
+   "value": 46264.05,
+   "asOf": "2026-11-04",
+   "chg1d": 1.5,
+   "ret1w": 7.9,
+   "ret1m": 3.78,
+   "ret3m": -6.59
+  },
+  "Nifty Metal": {
+   "value": 12485.9,
+   "asOf": "2026-11-04",
+   "chg1d": 2.8,
+   "ret1w": 6.09,
+   "ret1m": -0.1,
+   "ret3m": -4.19
+  },
+  "Nifty Realty": {
+   "value": 865.4,
+   "asOf": "2026-11-04",
+   "chg1d": 2.85,
+   "ret1w": 8.47,
+   "ret1m": 3.06,
+   "ret3m": -2.89
+  },
+  "Nifty Energy": {
+   "value": 37078.85,
+   "asOf": "2026-11-04",
+   "chg1d": 2.17,
+   "ret1w": 6.1,
+   "ret1m": 1.32,
+   "ret3m": -4.48
   },
   "Nifty PSU Bank": {
-   "value": 8315.1,
-   "asOf": "2026-11-04",
-   "chg1d": 0.9,
-   "ret1w": 2.23,
-   "ret1m": 3.75,
-   "ret3m": -1.94
-  },
-  "Nifty Infra": {
-   "value": 9293.6,
+   "value": 8302.3,
    "asOf": "2026-11-04",
    "chg1d": 0.74,
-   "ret1w": 6.95,
-   "ret1m": 6.91,
-   "ret3m": -1.34
+   "ret1w": 2.07,
+   "ret1m": 3.59,
+   "ret3m": -2.09
+  },
+  "Nifty Infra": {
+   "value": 9317.3,
+   "asOf": "2026-11-04",
+   "chg1d": 1.0,
+   "ret1w": 7.22,
+   "ret1m": 7.18,
+   "ret3m": -1.09
   },
   "Nifty PSE": {
-   "value": 9441.45,
+   "value": 9485.55,
    "asOf": "2026-11-04",
-   "chg1d": 1.52,
-   "ret1w": 4.98,
-   "ret1m": 1.7,
-   "ret3m": -5.0
+   "chg1d": 2.0,
+   "ret1w": 5.47,
+   "ret1m": 2.18,
+   "ret3m": -4.55
   },
   "Nifty Consumption": {
-   "value": 11538.8,
+   "value": 11580.75,
    "asOf": "2026-11-04",
-   "chg1d": 0.7,
-   "ret1w": 5.43,
-   "ret1m": 5.44,
-   "ret3m": -5.49
+   "chg1d": 1.06,
+   "ret1w": 5.81,
+   "ret1m": 5.82,
+   "ret3m": -5.15
   },
   "Nifty MNC": {
-   "value": 29930.55,
+   "value": 30065.45,
    "asOf": "2026-11-04",
-   "chg1d": 1.49,
-   "ret1w": 5.16,
-   "ret1m": -0.29,
-   "ret3m": -10.55
+   "chg1d": 1.95,
+   "ret1w": 5.64,
+   "ret1m": 0.16,
+   "ret3m": -10.15
   },
   "Nifty Fin Services": {
-   "value": 25529.45,
+   "value": 25580.6,
    "asOf": "2026-11-04",
-   "chg1d": 0.68,
-   "ret1w": 4.55,
-   "ret1m": 3.54,
-   "ret3m": -4.9
+   "chg1d": 0.88,
+   "ret1w": 4.76,
+   "ret1m": 3.75,
+   "ret3m": -4.71
   }
  }
 }
