@@ -1,5 +1,5 @@
 {
-"generatedAt": "2026-11-10T02:32+05:30",
+"generatedAt": "2026-11-10T15:12+05:30",
 "count": 499,
 "symbols": {
 "360ONE": {
@@ -888,7 +888,7 @@
 "trend": "Sideways",
 "atr": 12.97,
 "atrPct": 5.09,
-"volRatio": 0.59,
+"volRatio": 0.6,
 "avgTradedValueCr": 18.7,
 "support": [
 226.9,
@@ -1373,7 +1373,7 @@
 "trend": "Sideways",
 "atr": 33.13,
 "atrPct": 2.76,
-"volRatio": 2.39,
+"volRatio": 2.4,
 "avgTradedValueCr": 46.9,
 "support": [
 1194.5,
@@ -1513,7 +1513,7 @@
 "trend": "Downtrend",
 "atr": 9.66,
 "atrPct": 5.49,
-"volRatio": 1.11,
+"volRatio": 1.12,
 "avgTradedValueCr": 75.6,
 "support": [],
 "resistance": [
@@ -1996,7 +1996,7 @@
 "trend": "Sideways",
 "atr": 87.24,
 "atrPct": 4.38,
-"volRatio": 0.59,
+"volRatio": 0.6,
 "avgTradedValueCr": 47.4,
 "support": [
 1875.6,
@@ -3167,25 +3167,25 @@
 "industry": "Fast Moving Consumer Goods"
 },
 "BIRET": {
-"close": 320.87,
-"asOf": "2026-11-06",
-"chg1d": 0.2,
-"ret1w": 3.81,
-"ret1m": -0.88,
-"ret3m": -3.58,
-"ret6m": 4.36,
-"ret1y": 1.36,
-"rsi": 58.3,
-"macd": -2.51,
-"macdSignal": -4.8,
+"close": 318.3,
+"asOf": "2026-11-09",
+"chg1d": -0.8,
+"ret1w": 3.32,
+"ret1m": 0.28,
+"ret3m": -4.52,
+"ret6m": 2.61,
+"ret1y": 0.96,
+"rsi": 54.2,
+"macd": -1.86,
+"macdSignal": -4.21,
 "macdState": "above signal",
-"dma20": 311.3,
-"dma50": 323.5,
+"dma20": 311.2,
+"dma50": 323.2,
 "dma200": 322.1,
 "trend": "Sideways",
-"atr": 6.33,
-"atrPct": 1.97,
-"volRatio": 0.44,
+"atr": 6.43,
+"atrPct": 2.02,
+"volRatio": 0.38,
 "avgTradedValueCr": 14.3,
 "support": [
 307.4,
@@ -3197,7 +3197,7 @@
 ],
 "hi52": 356.9,
 "lo52": 292.1,
-"pctFromHi52": -10.1,
+"pctFromHi52": -10.8,
 "setup": [],
 "industry": "Realty"
 },
@@ -5178,29 +5178,29 @@
 "industry": "Consumer Services"
 },
 "EMBASSY": {
-"close": 416.83,
-"asOf": "2026-11-06",
-"chg1d": 0.11,
-"ret1w": 0.63,
-"ret1m": -2.58,
-"ret3m": -3.83,
-"ret6m": 2.15,
-"ret1y": 4.06,
-"rsi": 47.8,
-"macd": -3.72,
-"macdSignal": -4.15,
-"macdState": "bullish crossover",
-"dma20": 417.4,
-"dma50": 424.9,
+"close": 419.93,
+"asOf": "2026-11-09",
+"chg1d": 0.74,
+"ret1w": 2.13,
+"ret1m": -0.94,
+"ret3m": -3.19,
+"ret6m": 2.81,
+"ret1y": 4.94,
+"rsi": 52.0,
+"macd": -3.01,
+"macdSignal": -3.92,
+"macdState": "above signal",
+"dma20": 417.2,
+"dma50": 424.6,
 "dma200": 419.5,
 "trend": "Sideways",
-"atr": 6.81,
-"atrPct": 1.63,
-"volRatio": 0.8,
-"avgTradedValueCr": 21.0,
+"atr": 7.05,
+"atrPct": 1.68,
+"volRatio": 0.56,
+"avgTradedValueCr": 20.5,
 "support": [
-412.8,
-411.9
+418.1,
+412.8
 ],
 "resistance": [
 420.3,
@@ -5208,7 +5208,7 @@
 ],
 "hi52": 445.5,
 "lo52": 390.4,
-"pctFromHi52": -6.4,
+"pctFromHi52": -5.7,
 "setup": [],
 "industry": "Realty"
 },
@@ -5510,7 +5510,7 @@
 "atr": 84.39,
 "atrPct": 3.47,
 "volRatio": 1.11,
-"avgTradedValueCr": 23.9,
+"avgTradedValueCr": 24.0,
 "support": [],
 "resistance": [
 2888.4,
@@ -5710,7 +5710,7 @@
 "trend": "Sideways",
 "atr": 76.29,
 "atrPct": 6.19,
-"volRatio": 7.14,
+"volRatio": 7.15,
 "avgTradedValueCr": 115.4,
 "support": [
 1178.1,
@@ -7529,8 +7529,8 @@
 "trend": "Sideways",
 "atr": 6.23,
 "atrPct": 3.68,
-"volRatio": 2.8,
-"avgTradedValueCr": 46.1,
+"volRatio": 2.83,
+"avgTradedValueCr": 46.2,
 "support": [
 167.1,
 155.8
@@ -7599,8 +7599,8 @@
 "trend": "Uptrend",
 "atr": 33.24,
 "atrPct": 2.09,
-"volRatio": 1.69,
-"avgTradedValueCr": 2339.7,
+"volRatio": 1.7,
+"avgTradedValueCr": 2340.2,
 "support": [
 1403.6,
 1391.5
@@ -7842,7 +7842,7 @@
 "trend": "Uptrend",
 "atr": 30.48,
 "atrPct": 4.86,
-"volRatio": 0.84,
+"volRatio": 0.85,
 "avgTradedValueCr": 137.8,
 "support": [
 615.0,
@@ -8261,7 +8261,7 @@
 "atr": 3.62,
 "atrPct": 2.46,
 "volRatio": 1.78,
-"avgTradedValueCr": 173.5,
+"avgTradedValueCr": 173.6,
 "support": [
 137.2,
 135.6
@@ -8297,7 +8297,7 @@
 "trend": "Downtrend",
 "atr": 0.94,
 "atrPct": 3.03,
-"volRatio": 1.1,
+"volRatio": 1.11,
 "avgTradedValueCr": 11.6,
 "support": [
 30.1,
@@ -8367,7 +8367,7 @@
 "trend": "Sideways",
 "atr": 2.42,
 "atrPct": 2.9,
-"volRatio": 1.93,
+"volRatio": 1.94,
 "avgTradedValueCr": 82.5,
 "support": [
 77.0,
@@ -9416,7 +9416,7 @@
 "trend": "Downtrend",
 "atr": 9.89,
 "atrPct": 4.84,
-"volRatio": 0.39,
+"volRatio": 0.4,
 "avgTradedValueCr": 57.2,
 "support": [
 169.1
@@ -10211,7 +10211,7 @@
 "atr": 92.9,
 "atrPct": 2.22,
 "volRatio": 1.35,
-"avgTradedValueCr": 918.3,
+"avgTradedValueCr": 918.4,
 "support": [
 3990.0,
 3854.4
@@ -10879,7 +10879,7 @@
 "atr": 298.93,
 "atrPct": 2.31,
 "volRatio": 1.06,
-"avgTradedValueCr": 621.5,
+"avgTradedValueCr": 621.6,
 "support": [
 12573.7,
 11125.0
@@ -11190,7 +11190,7 @@
 "atr": 138.02,
 "atrPct": 3.89,
 "volRatio": 1.02,
-"avgTradedValueCr": 716.2,
+"avgTradedValueCr": 716.3,
 "support": [
 3165.6,
 3150.0
@@ -11535,8 +11535,8 @@
 "trend": "Sideways",
 "atr": 8.54,
 "atrPct": 2.6,
-"volRatio": 0.99,
-"avgTradedValueCr": 301.8,
+"volRatio": 1.0,
+"avgTradedValueCr": 301.9,
 "support": [
 326.9,
 317.0
@@ -13136,7 +13136,7 @@
 "atr": 3.12,
 "atrPct": 2.36,
 "volRatio": 2.03,
-"avgTradedValueCr": 296.4,
+"avgTradedValueCr": 296.5,
 "support": [
 114.5,
 114.1
@@ -13343,7 +13343,7 @@
 "atr": 154.17,
 "atrPct": 3.38,
 "volRatio": 0.5,
-"avgTradedValueCr": 195.8,
+"avgTradedValueCr": 195.9,
 "support": [
 4390.0,
 4298.8
@@ -13378,7 +13378,7 @@
 "atr": 7.14,
 "atrPct": 3.54,
 "volRatio": 2.08,
-"avgTradedValueCr": 87.7,
+"avgTradedValueCr": 87.8,
 "support": [
 195.1,
 186.9
@@ -14282,7 +14282,7 @@
 "trend": "Sideways",
 "atr": 129.77,
 "atrPct": 3.55,
-"volRatio": 1.36,
+"volRatio": 1.37,
 "avgTradedValueCr": 86.1,
 "support": [
 3576.1,
@@ -14773,7 +14773,7 @@
 "atr": 1.52,
 "atrPct": 3.92,
 "volRatio": 0.54,
-"avgTradedValueCr": 353.8,
+"avgTradedValueCr": 353.9,
 "support": [
 36.3,
 33.2
@@ -14981,7 +14981,7 @@
 "atr": 46.66,
 "atrPct": 8.16,
 "volRatio": 2.5,
-"avgTradedValueCr": 305.9,
+"avgTradedValueCr": 306.0,
 "support": [
 557.0,
 550.5
@@ -15402,7 +15402,7 @@
 "trend": "Sideways",
 "atr": 5.45,
 "atrPct": 2.95,
-"volRatio": 2.06,
+"volRatio": 2.07,
 "avgTradedValueCr": 425.0,
 "support": [
 184.7,
@@ -16199,7 +16199,7 @@
 "atr": 48.87,
 "atrPct": 3.61,
 "volRatio": 1.44,
-"avgTradedValueCr": 127.7,
+"avgTradedValueCr": 127.8,
 "support": [
 1240.5,
 1230.1
@@ -17061,7 +17061,7 @@
 "trend": "Uptrend",
 "atr": 81.71,
 "atrPct": 4.02,
-"volRatio": 1.31,
+"volRatio": 1.32,
 "avgTradedValueCr": 131.0,
 "support": [
 1967.3,

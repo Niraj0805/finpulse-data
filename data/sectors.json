@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T02:32+05:30",
+ "generatedAt": "2026-11-10T15:12+05:30",
  "universe": 499,
  "method": "equal-weighted across Nifty 500 constituents by NSE industry",
  "sectors": [
@@ -414,14 +414,14 @@
   {
    "sector": "Realty",
    "stocks": 13,
-   "chg1d": -0.19,
-   "ret1w": 6.7,
-   "ret1m": 6.01,
-   "ret3m": -4.64,
+   "chg1d": -0.22,
+   "ret1w": 6.78,
+   "ret1m": 6.22,
+   "ret3m": -4.66,
    "above50": 54,
-   "above200": 46,
-   "avgRsi": 57.2,
-   "score": 18.7,
+   "above200": 54,
+   "avgRsi": 57.21,
+   "score": 19.1,
    "trend": "Strengthening",
    "topGainers1w": [
     {
@@ -444,7 +444,7 @@
     },
     {
      "symbol": "EMBASSY",
-     "ret1w": 0.63
+     "ret1w": 2.13
     },
     {
      "symbol": "SIGNATURE",
@@ -1006,116 +1006,116 @@
  ],
  "indices": {
   "Nifty Bank": {
-   "value": 59086.0,
-   "asOf": "2026-11-06",
-   "chg1d": 2.27,
-   "ret1w": 8.04,
-   "ret1m": 7.32,
-   "ret3m": 1.76
+   "value": 59741.25,
+   "asOf": "2026-11-09",
+   "chg1d": 1.11,
+   "ret1w": 8.62,
+   "ret1m": 9.59,
+   "ret3m": 3.45
   },
   "Nifty IT": {
-   "value": 32977.9,
-   "asOf": "2026-11-06",
-   "chg1d": 0.43,
-   "ret1w": 1.14,
-   "ret1m": 18.81,
-   "ret3m": 6.02
+   "value": 32468.95,
+   "asOf": "2026-11-09",
+   "chg1d": -1.54,
+   "ret1w": 0.08,
+   "ret1m": 17.06,
+   "ret3m": 2.92
   },
   "Nifty Pharma": {
-   "value": 27940.4,
-   "asOf": "2026-11-06",
-   "chg1d": 1.21,
-   "ret1w": 3.01,
-   "ret1m": 5.69,
-   "ret3m": 5.18
+   "value": 28896.1,
+   "asOf": "2026-11-09",
+   "chg1d": 3.42,
+   "ret1w": 6.61,
+   "ret1m": 11.9,
+   "ret3m": 8.87
   },
   "Nifty Auto": {
-   "value": 27811.8,
-   "asOf": "2026-11-06",
-   "chg1d": 0.76,
-   "ret1w": 9.4,
-   "ret1m": 10.63,
-   "ret3m": -4.47
+   "value": 27925.9,
+   "asOf": "2026-11-09",
+   "chg1d": 0.41,
+   "ret1w": 8.4,
+   "ret1m": 13.92,
+   "ret3m": -5.81
   },
   "Nifty FMCG": {
-   "value": 46785.6,
-   "asOf": "2026-11-06",
-   "chg1d": 0.67,
-   "ret1w": 7.28,
-   "ret1m": 4.43,
-   "ret3m": -5.23
+   "value": 46660.65,
+   "asOf": "2026-11-09",
+   "chg1d": -0.27,
+   "ret1w": 6.11,
+   "ret1m": 6.29,
+   "ret3m": -5.61
   },
   "Nifty Metal": {
-   "value": 12678.15,
-   "asOf": "2026-11-06",
-   "chg1d": 0.66,
-   "ret1w": 7.58,
-   "ret1m": 3.02,
-   "ret3m": -3.4
+   "value": 12664.65,
+   "asOf": "2026-11-09",
+   "chg1d": -0.11,
+   "ret1w": 4.13,
+   "ret1m": 6.69,
+   "ret3m": -3.98
   },
   "Nifty Realty": {
-   "value": 896.7,
-   "asOf": "2026-11-06",
-   "chg1d": 0.09,
-   "ret1w": 10.17,
-   "ret1m": 9.01,
-   "ret3m": 1.11
+   "value": 897.7,
+   "asOf": "2026-11-09",
+   "chg1d": 0.11,
+   "ret1w": 9.18,
+   "ret1m": 12.69,
+   "ret3m": 1.33
   },
   "Nifty Energy": {
-   "value": 36867.3,
-   "asOf": "2026-11-06",
-   "chg1d": -0.05,
-   "ret1w": 5.46,
-   "ret1m": 0.5,
-   "ret3m": -4.69
-  },
-  "Nifty PSU Bank": {
-   "value": 8612.9,
-   "asOf": "2026-11-06",
-   "chg1d": 0.6,
-   "ret1w": 4.59,
-   "ret1m": 6.48,
-   "ret3m": -1.33
-  },
-  "Nifty Infra": {
-   "value": 9446.8,
-   "asOf": "2026-11-06",
-   "chg1d": 0.77,
-   "ret1w": 7.36,
-   "ret1m": 8.23,
-   "ret3m": -0.07
-  },
-  "Nifty PSE": {
-   "value": 9531.3,
-   "asOf": "2026-11-06",
-   "chg1d": 0.5,
-   "ret1w": 5.02,
-   "ret1m": 3.24,
+   "value": 37164.95,
+   "asOf": "2026-11-09",
+   "chg1d": 0.81,
+   "ret1w": 2.3,
+   "ret1m": 4.25,
    "ret3m": -4.09
   },
+  "Nifty PSU Bank": {
+   "value": 8905.35,
+   "asOf": "2026-11-09",
+   "chg1d": 3.4,
+   "ret1w": 6.69,
+   "ret1m": 11.37,
+   "ret3m": 1.36
+  },
+  "Nifty Infra": {
+   "value": 9462.9,
+   "asOf": "2026-11-09",
+   "chg1d": 0.17,
+   "ret1w": 3.7,
+   "ret1m": 11.28,
+   "ret3m": -0.43
+  },
+  "Nifty PSE": {
+   "value": 9577.25,
+   "asOf": "2026-11-09",
+   "chg1d": 0.48,
+   "ret1w": 3.11,
+   "ret1m": 6.29,
+   "ret3m": -3.48
+  },
   "Nifty Consumption": {
-   "value": 11957.25,
-   "asOf": "2026-11-06",
-   "chg1d": 1.29,
-   "ret1w": 7.81,
-   "ret1m": 8.93,
-   "ret3m": -1.76
+   "value": 11935.55,
+   "asOf": "2026-11-09",
+   "chg1d": -0.18,
+   "ret1w": 6.54,
+   "ret1m": 11.12,
+   "ret3m": -2.15
   },
   "Nifty MNC": {
-   "value": 30262.35,
-   "asOf": "2026-11-06",
-   "chg1d": 0.12,
-   "ret1w": 6.5,
-   "ret1m": 0.41,
-   "ret3m": -9.67
+   "value": 30521.55,
+   "asOf": "2026-11-09",
+   "chg1d": 0.86,
+   "ret1w": 5.44,
+   "ret1m": 3.58,
+   "ret3m": -9.45
   },
   "Nifty Fin Services": {
-   "value": 27283.95,
-   "asOf": "2026-11-06",
-   "chg1d": 2.57,
-   "ret1w": 10.41,
-   "ret1m": 9.5,
-   "ret3m": 1.57
+   "value": 27384.9,
+   "asOf": "2026-11-09",
+   "chg1d": 0.37,
+   "ret1w": 9.98,
+   "ret1m": 11.14,
+   "ret3m": 3.47
   }
  }
 }
